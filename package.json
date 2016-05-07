@@ -1,0 +1,24 @@
+{
+  "name": "imagesearchlayer",
+  "version": "1.0.0",
+  "description": "For FCC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ChaituVr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaituVR/ImageSearch.git"
+  },
+  "keywords": [
+    "image",
+    "search"
+  ],
+  "bugs": {
+    "url": "https://github.com/ChaituVR/ImageSearch/issues"
+  },
+  "homepage": "https://github.com/ChaituVR/ImageSearch#readme"
+}
